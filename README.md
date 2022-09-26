@@ -2,7 +2,7 @@
 
 Using ghdl, these compile with commands:
 ``` bash
-ghdl -e multiplexer.vhdl
+ghdl -a multiplexer.vhdl
 ghdl -e mux
 ghdl -a mux_tb.vhdl
 ghdl -e mux_tb
